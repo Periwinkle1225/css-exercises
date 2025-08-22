@@ -1,0 +1,23 @@
+.Paragraph {
+    background-color: pink;
+    font-size: 20px;    
+}
+
+.Cool-paragraph {
+    background-color: pink;
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+#div{
+    color: blue;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+#green{
+    font-weight: bold;
+    background-color: greenyellow;
+    font-size: 25px;
+}
